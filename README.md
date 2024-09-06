@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Sheridan College student <br>My major is Software Development & Network Engineering<br>I'm looking forward to a co-op job in Winter 2025<br>
+I'm currently a second-year Sheridan College student <br>My major is Software Development & Network Engineering<br>I'm looking forward to a co-op job in Winter 2025 (4-month duration)<br>
 
 
 ## 🌐 Socials:
