@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm The Hai Nguyen, a second-year student passionate about the intersection of AI, app development, and real-world problem solving. <br>I'm actively exploring how technologies like AI agents, LLMs, and workflow automation can improve everyday systems—especially in communication, content creation and productivity<br>I have a great interest in back-end or full-stack software development, data analyst, and cloud engineering<br>
+👋 Hi, I'm The Hai Nguyen, a second-year student passionate about the intersection of AI, app development, and real-world problem solving. <br>🧠 I'm actively exploring how technologies like AI agents, LLMs, and workflow automation can improve everyday systems—especially in communication, content creation and productivity<br>💻 I have a great interest in back-end or full-stack software development, data analyst, and cloud engineering<br>
 
 
 ## 🌐 Socials:
